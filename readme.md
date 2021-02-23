@@ -4,13 +4,17 @@
 - [7-Zip](https://www.7-zip.org/download.html )
 - [Everything](https://www.voidtools.com/zh-cn/downloads/)
 - [EverythingToolbar](https://github.com/stnkl/EverythingToolbar)
+- [FDM](https://www.freedownloadmanager.org/zh/)
 - [NotePad++](https://notepad-plus-plus.org/downloads/)
 - [CCleaner](https://www.ccleaner.com/ccleaner/download)
 - [PowerToys](https://github.com/microsoft/PowerToys/)
 - [nTurn](https://www.ntrun.com/)
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
 - Sleep Preventer
 - [IrfanView](https://www.irfanview.com/64bit.htm)
 - [射手](http://www.splayer.org)
+- [PotPlayer](https://potplayer.daum.net/)
+- [foobar2000](https://www.foobar2000.org/download)
 - [微信](https://pc.weixin.qq.com/)
 - [Tim](https://office.qq.com/download.html)
 ## 办公
