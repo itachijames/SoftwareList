@@ -36,6 +36,7 @@
 - [Source tree](https://www.sourcetreeapp.com/)
 - [Postman](https://www.postman.com/downloads/)
 - [MQTTX](https://github.com/emqx/MQTTX)
+- [Sysinternals Suite](https://docs.microsoft.com/zh-cn/sysinternals/downloads/sysinternals-suite)
 ## 其他
 - [OS](https://next.itellyou.cn/Original/Index)
 - [Ventoy](https://www.ventoy.net/cn/index.html)
