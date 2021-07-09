@@ -10,14 +10,13 @@
 - [nTurn](https://www.ntrun.com/)
 - Sleep Preventer
 - [IrfanView](https://www.irfanview.com/64bit.htm)
-- [射手](http://www.splayer.org)
-- [微信](https://pc.weixin.qq.com/)
+- [PotPlayer](https://daumpotplayer.com/download/)
+- [WeChat](https://pc.weixin.qq.com/)
+- [WeCom](https://work.weixin.qq.com/#indexDownload)
 - [Tim](https://office.qq.com/download.html)
 ## 办公
 - [Office 365](https://www.microsoft.com/zh-cn/microsoft-365)
 - [Adobe Acrobat Reader](https://get.adobe.com/cn/reader/)
-- [企业微信](https://work.weixin.qq.com/#indexDownload)
-- [Diagrams](https://www.diagrams.net/)
 - Mind Master
 ## 开发
 - [VS](https://visualstudio.microsoft.com/zh-hans/vs/)
@@ -25,14 +24,20 @@
 - [IDEA IntelliJ](https://www.jetbrains.com/idea/download/)
 - [SQL Server](https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads)
 - [SQL Server Management Studio](https://aka.ms/ssmsfullsetup)
-- Unity
-- Redis
-- [Redis Manager](https://github.com/qishibo/AnotherRedisDesktopManager/releases)
 - [Git](https://git-scm.com/downloads)
 - [Source tree](https://www.sourcetreeapp.com/)
+- [Docker](https://www.docker.com/get-started)
+- [Unity](https://store.unity.com/download-nuo)
+- [Redis](https://redis.io/download)
+- [Redis Desktop](https://github.com/qishibo/AnotherRedisDesktopManager/)
+- [PostgreSQL](https://www.postgresql.org/download/)
 - [Postman](https://www.postman.com/downloads/)
+- [Wireshark](https://www.wireshark.org/download.html)
 - [MQTTX](https://github.com/emqx/MQTTX)
+- [ABP](https://abp.io/)
 ## 其他
 - [OS](https://next.itellyou.cn/Original/Index)
+- [WePE](http://www.wepe.com.cn/download.html)
 - [Ventoy](https://www.ventoy.net/cn/index.html)
 - [WPD](https://wpd.app/)
+- [MSI Afterburner](https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip)
