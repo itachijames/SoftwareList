@@ -1,41 +1,38 @@
-# Windows
-## 工具
+# 必备
 - [Chrome](https://www.google.cn/chrome/)
 - [7-Zip](https://www.7-zip.org/download.html )
-- [Everything](https://www.voidtools.com/zh-cn/downloads/)
 - [NotePad++](https://notepad-plus-plus.org/downloads/)
-- [Simplenote](https://app.simplenote.com/)
-- [CCleaner](https://www.ccleaner.com/ccleaner/download)
+- [PowerToys](https://github.com/microsoft/PowerToys/)
+- [Everything](https://www.voidtools.com/zh-cn/downloads/)
+- [EverythingToolbar](https://github.com/stnkl/EverythingToolbar)
 - [IrfanView](https://www.irfanview.com/64bit.htm)
-- [WeChat](https://pc.weixin.qq.com/)
-- [WeCom](https://work.weixin.qq.com/#indexDownload)
-- [Tim](https://office.qq.com/download.html)
-- [FDM](https://www.freedownloadmanager.org/zh/)
 - [PotPlayer](https://potplayer.daum.net/)
+
+# 效率
+- [nTurn](https://www.ntrun.com/)
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
+- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
+- [FSearch](https://github.com/cboxdoerfer/fsearch) (liunx, 文件查找)
 - [foobar2000](https://www.foobar2000.org/download)
 - [OS](https://next.itellyou.cn/Original/Index)
 - [WePE](http://www.wepe.com.cn/download.html)
-- [Ventoy](https://www.ventoy.net/cn/index.html)
-- [WPD](https://wpd.app/)
+- [Ventoy](https://www.ventoy.net/cn/index.html) (u盘启动)
+- [WPD](https://wpd.app/) (windows, 隐私管理)
+
+# 应用
+- [Simplenote](https://app.simplenote.com/)
+- [CCleaner](https://www.ccleaner.com/ccleaner/download)
+- [WeChat](https://pc.weixin.qq.com/)
+- [WeCom](https://work.weixin.qq.com/)
+- [Tim](https://office.qq.com/download.html)
+- [FDM](https://www.freedownloadmanager.org/zh/)
 - [MSI Afterburner](https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip)
-- [EverythingToolbar](https://github.com/stnkl/EverythingToolbar)
-- [PowerToys](https://github.com/microsoft/PowerToys/)
-- Sleep Preventer
-- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
-- [nTurn](https://www.ntrun.com/)
-- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
-## 办公
+- [Motrix](https://motrix.app/) (mac, 下载器)
+
+# 办公
 - [Office 365](https://www.microsoft.com/zh-cn/microsoft-365)
 - [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
 - Mind Master
-
-# Linux
-## 工具
-- [FSearch](https://github.com/cboxdoerfer/fsearch)
-
-# MacOS
-## 工具
-- [Motrix](https://motrix.app/)
 
 # 开发
 - [Git](https://git-scm.com/downloads)
