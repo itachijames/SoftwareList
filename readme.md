@@ -1,14 +1,16 @@
 # 必备
 - [Chrome](https://www.google.cn/chrome/)
-- [7-Zip](https://www.7-zip.org/download.html )
+- [7-Zip](https://www.7-zip.org/download.html)
 - [NotePad++](https://notepad-plus-plus.org/downloads/)
 - [Everything](https://www.voidtools.com/zh-cn/downloads/)
 - [IrfanView](https://www.irfanview.com/64bit.htm)
+- [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
 - [PotPlayer](https://potplayer.daum.net/)
 - [PowerToys](https://github.com/microsoft/PowerToys/)
 
-# 效率
+# 工具
 - [nTrun](http://www.ntrun.com/)
+- [QuickLook](https://github.com/QL-Win/QuickLook)
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
 - [FSearch](https://github.com/cboxdoerfer/fsearch) (liunx, 文件查找)
@@ -18,20 +20,17 @@
 - [Ventoy](https://www.ventoy.net/cn/index.html) (u盘启动)
 - [WPD](https://wpd.app/) (隐私管理)
 - [EverythingToolbar](https://github.com/stnkl/EverythingToolbar)
+- [MSI Afterburner](https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip)
 
 # 应用
+- [Office 365](https://www.microsoft.com/zh-cn/microsoft-365)
 - [Simplenote](https://app.simplenote.com/)
 - [CCleaner](https://www.ccleaner.com/ccleaner/download)
 - [WeChat](https://pc.weixin.qq.com/)
 - [WeCom](https://work.weixin.qq.com/)
 - [Tim](https://office.qq.com/download.html)
-- [MSI Afterburner](https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip)
 - [qBEE](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) (BT下载器)
 - [Motrix](https://motrix.app/) (mac, 下载器)
-
-# 办公
-- [Office 365](https://www.microsoft.com/zh-cn/microsoft-365)
-- [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
 - Mind Master
 
 # 开发
