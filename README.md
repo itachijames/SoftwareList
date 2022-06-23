@@ -1,14 +1,15 @@
 # 必备
 - [Chrome](https://www.google.cn/chrome/)
 - [7-Zip](https://www.7-zip.org/download.html)
-- [NotePad++](https://notepad-plus-plus.org/downloads/)
+- [NotePad++](https://github.com/notepad-plus-plus/notepad-plus-plus)
 - [Everything](https://www.voidtools.com/zh-cn/downloads/)
 - [IrfanView](https://www.irfanview.com/64bit.htm)
 - [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
 - [PotPlayer](https://potplayer.daum.net/)
-- [PowerToys](https://github.com/microsoft/PowerToys/)
+- [PowerToys](https://github.com/microsoft/PowerToys)
 
 # 工具
+- [Windows Terminal](https://github.com/microsoft/terminal)
 - [nTrun](http://www.ntrun.com/)
 - [QuickLook](https://github.com/QL-Win/QuickLook)
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
