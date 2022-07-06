@@ -10,6 +10,8 @@
 
 # 工具
 - [Windows Terminal](https://github.com/microsoft/terminal)
+- [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)
+- [ClashX](https://github.com/yichengchen/clashX)
 - [nTrun](http://www.ntrun.com/)
 - [QuickLook](https://github.com/QL-Win/QuickLook)
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
