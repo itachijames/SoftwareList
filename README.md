@@ -28,13 +28,11 @@
 # 应用
 - [Office 365](https://www.microsoft.com/zh-cn/microsoft-365)
 - [Simplenote](https://app.simplenote.com/)
-- [CCleaner](https://www.ccleaner.com/ccleaner/download)
 - [WeChat](https://pc.weixin.qq.com/)
 - [WeCom](https://work.weixin.qq.com/)
 - [Tim](https://office.qq.com/download.html)
-- [qBEE](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases) (BT下载器)
+- [qBEE](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
 - [Motrix](https://motrix.app/) (mac, 下载器)
-- Mind Master
 
 # 开发
 - [Git](https://git-scm.com/downloads)
