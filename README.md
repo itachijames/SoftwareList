@@ -13,6 +13,7 @@
 - [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)
 - [ClashX](https://github.com/yichengchen/clashX)
 - [nTrun](http://www.ntrun.com/)
+- [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)
 - [QuickLook](https://github.com/QL-Win/QuickLook)
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
@@ -24,6 +25,8 @@
 - [WPD](https://wpd.app/) (隐私管理)
 - [EverythingToolbar](https://github.com/stnkl/EverythingToolbar)
 - [MSI Afterburner](https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip)
+- [qBEE](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
+- [Motrix](https://motrix.app/) (mac, 下载器)
 
 # 应用
 - [Office 365](https://www.microsoft.com/zh-cn/microsoft-365)
@@ -31,8 +34,7 @@
 - [WeChat](https://pc.weixin.qq.com/)
 - [WeCom](https://work.weixin.qq.com/)
 - [Tim](https://office.qq.com/download.html)
-- [qBEE](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
-- [Motrix](https://motrix.app/) (mac, 下载器)
+
 
 # 开发
 - [Git](https://git-scm.com/downloads)
