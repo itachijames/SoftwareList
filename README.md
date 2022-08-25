@@ -28,6 +28,7 @@
 - [Motrix](https://motrix.app/) (mac, 下载器)
 - [FSearch](https://github.com/cboxdoerfer/fsearch) (liunx, 文件查找)
 
+
 # 应用
 - [Office 365](https://www.microsoft.com/zh-cn/microsoft-365)
 - [Simplenote](https://app.simplenote.com/)
@@ -39,7 +40,9 @@
 # 开发
 - [Git](https://git-scm.com/downloads)
 - [Source tree](https://www.sourcetreeapp.com/)
-- [Git Extensions](https://github.com/gitextensions/gitextensions)
+- [.Net](https://dotnet.microsoft.com/zh-cn/download)
+- [JDK](https://openjdk.org/)
+- [Python](https://www.python.org/downloads/)
 - [VS](https://visualstudio.microsoft.com/zh-hans/vs/)
 - [VS Code](https://code.visualstudio.com/Download)
 - [IDEA IntelliJ](https://www.jetbrains.com/idea/download/)
@@ -51,7 +54,6 @@
 - [Redis](https://redis.io/download)
 - [Redis Desktop](https://github.com/qishibo/AnotherRedisDesktopManager)
 - [PostgreSQL](https://www.postgresql.org/download/)
-- [Postman](https://www.postman.com/downloads/)
 - [Wireshark](https://www.wireshark.org/download.html)
 - [MobaXterm](https://mobaxterm.mobatek.net/download.html)
 - [MQTTX](https://github.com/emqx/MQTTX)
