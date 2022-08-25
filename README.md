@@ -7,14 +7,13 @@
 - [IrfanView](https://www.irfanview.com/64bit.htm)
 - [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
 - [PotPlayer](https://potplayer.daum.net/)
-- [PowerToys](https://github.com/microsoft/PowerToys)  [Microsoft Store](https://apps.microsoft.com/store/detail/XP89DCGQ3K6VLD)
-- [Windows Terminal](https://github.com/microsoft/terminal)  [Microsoft Store](https://www.microsoft.com/store/productId/9N0DX20HK701)
-- [QuickLook](https://github.com/QL-Win/QuickLook)  [Microsoft Store](https://www.microsoft.com/store/productId/9NV4BS3L1H4S)
-- [Notepads App](https://github.com/0x7c13/Notepads)  [Microsoft Store](https://www.microsoft.com/store/productId/9NHL4NSC67WM)
+- [PowerToys](https://github.com/microsoft/PowerToys) &nbsp;&nbsp;&nbsp;&nbsp; [Microsoft Store](https://apps.microsoft.com/store/detail/XP89DCGQ3K6VLD)
+- [Windows Terminal](https://github.com/microsoft/terminal) &nbsp;&nbsp;&nbsp;&nbsp; [Microsoft Store](https://www.microsoft.com/store/productId/9N0DX20HK701)
+- [QuickLook](https://github.com/QL-Win/QuickLook) &nbsp;&nbsp;&nbsp;&nbsp; [Microsoft Store](https://www.microsoft.com/store/productId/9NV4BS3L1H4S)
 - [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)
 - [ClashX](https://github.com/yichengchen/clashX)
-- [nTrun](http://www.ntrun.com/)
 - [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)
+- [WPD](https://wpd.app/)
 - [foobar2000](https://www.foobar2000.org/download)
 - [MSI Afterburner](https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip)
 - [qBEE](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
@@ -23,10 +22,9 @@
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
 - [OS](https://next.itellyou.cn/Original/Index)
 - [WePE](http://www.wepe.com.cn/download.html)
-- [Ventoy](https://www.ventoy.net/cn/index.html) (u盘启动)
-- [WPD](https://wpd.app/) (隐私管理)
-- [Motrix](https://motrix.app/) (mac, 下载器)
-- [FSearch](https://github.com/cboxdoerfer/fsearch) (liunx, 文件查找)
+- [Ventoy](https://www.ventoy.net/cn/index.html)
+- [Motrix](https://motrix.app/)
+- [FSearch](https://github.com/cboxdoerfer/fsearch)
 
 
 # 应用
@@ -39,7 +37,7 @@
 
 # 开发
 - [Git](https://git-scm.com/downloads)
-- [Source tree](https://www.sourcetreeapp.com/)
+- [Sourcetree](https://www.sourcetreeapp.com/)
 - [.Net](https://dotnet.microsoft.com/zh-cn/download)
 - [JDK](https://openjdk.org/)
 - [Python](https://www.python.org/downloads/)
