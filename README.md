@@ -2,7 +2,7 @@
 - [Microsoft Edge](https://www.microsoft.com/en-us/edge)
 - [Chrome](https://www.google.cn/chrome/)
 - [7-Zip](https://www.7-zip.org/download.html)
-- [NotePad++](https://github.com/notepad-plus-plus/notepad-plus-plus)
+- [NotepadNext](https://github.com/dail8859/NotepadNext)
 - [Everything](https://www.voidtools.com/zh-cn/downloads/)
 - [IrfanView](https://www.irfanview.com/64bit.htm)
 - [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
