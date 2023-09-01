@@ -1,5 +1,5 @@
-# 工具
-- [Microsoft Edge](https://www.microsoft.com/en-us/edge)
+# Tool
+- [Edge](https://www.microsoft.com/en-us/edge)
 - [Chrome](https://www.google.cn/chrome/)
 - [7-Zip](https://www.7-zip.org/download.html)
 - [NotepadNext](https://github.com/dail8859/NotepadNext)
@@ -12,22 +12,10 @@
 - [QuickLook](https://github.com/QL-Win/QuickLook) &nbsp;&nbsp;&nbsp;&nbsp; [Microsoft Store](https://www.microsoft.com/store/productId/9NV4BS3L1H4S)
 - [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)
 - [ClashX](https://github.com/yichengchen/clashX)
-- [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)
-- [WPD](https://wpd.app/)
-- [foobar2000](https://www.foobar2000.org/download)
-- [MSI Afterburner](https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip)
-- [qBEE](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
-- [Sysinternals Suite](https://docs.microsoft.com/zh-cn/sysinternals/downloads/sysinternals-suite)
-- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
-- [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor)
-- [OS](https://next.itellyou.cn/Original/Index)
-- [WePE](http://www.wepe.com.cn/download.html)
-- [Ventoy](https://www.ventoy.net/cn/index.html)
-- [Motrix](https://motrix.app/)
 - [FSearch](https://github.com/cboxdoerfer/fsearch)
 
 
-# 应用
+# App
 - [Office 365](https://www.microsoft.com/zh-cn/microsoft-365)
 - [Simplenote](https://app.simplenote.com/)
 - [WeChat](https://pc.weixin.qq.com/)
@@ -35,16 +23,15 @@
 - [Tim](https://office.qq.com/download.html)
 
 
-# 开发
+# Dev
 - [Git](https://git-scm.com/downloads)
 - [Sourcetree](https://www.sourcetreeapp.com/)
-- [.Net](https://dotnet.microsoft.com/zh-cn/download)
+- [.Net](https://dotnet.microsoft.com/download)
 - [JDK](https://openjdk.org/)
-- [Python](https://www.python.org/downloads/)
-- [VS](https://visualstudio.microsoft.com/zh-hans/vs/)
+- [VS](https://visualstudio.microsoft.com/vs/)
 - [VS Code](https://code.visualstudio.com/Download)
 - [IDEA IntelliJ](https://www.jetbrains.com/idea/download/)
-- [SQL Server](https://www.microsoft.com/zh-cn/sql-server/sql-server-downloads)
+- [SQL Server](https://www.microsoft.com/sql-server/sql-server-downloads)
 - [SQL Server Management Studio](https://aka.ms/ssmsfullsetup)
 - [CMake](https://cmake.org/download/)
 - [Docker](https://www.docker.com/get-started)
@@ -57,3 +44,15 @@
 - [MQTTX](https://github.com/emqx/MQTTX)
 - [ROS](http://wiki.ros.org/melodic/Installation)
 - [ILSpy](https://github.com/icsharpcode/ILSpy)
+
+
+# Other
+- [foobar2000](https://www.foobar2000.org/download)
+- [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
+- [MSI Afterburner](https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip)
+- [qBEE](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
+- [OS](https://next.itellyou.cn/Original/Index)
+- [WePE](http://www.wepe.com.cn/download.html)
+- [Ventoy](https://www.ventoy.net/cn/index.html)
+- [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)
+- [WPD](https://wpd.app/)
