@@ -3,13 +3,12 @@
 - [Chrome](https://www.google.cn/chrome/)
 - [7-Zip](https://www.7-zip.org/download.html)
 - [NotepadNext](https://github.com/dail8859/NotepadNext)
-- [Everything](https://www.voidtools.com/zh-cn/downloads/)
+- [Everything](https://www.voidtools.com/downloads/)
 - [IrfanView](https://www.irfanview.com/64bit.htm)
 - [Sumatra PDF](https://www.sumatrapdfreader.org/download-free-pdf-viewer)
 - [PotPlayer](https://potplayer.daum.net/)
 - [PowerToys](https://github.com/microsoft/PowerToys) &nbsp;&nbsp;&nbsp;&nbsp; [Microsoft Store](https://apps.microsoft.com/store/detail/XP89DCGQ3K6VLD)
 - [Windows Terminal](https://github.com/microsoft/terminal) &nbsp;&nbsp;&nbsp;&nbsp; [Microsoft Store](https://www.microsoft.com/store/productId/9N0DX20HK701)
-- [QuickLook](https://github.com/QL-Win/QuickLook) &nbsp;&nbsp;&nbsp;&nbsp; [Microsoft Store](https://www.microsoft.com/store/productId/9NV4BS3L1H4S)
 - [Clash for Windows](https://github.com/Fndroid/clash_for_windows_pkg)
 - [ClashX](https://github.com/yichengchen/clashX)
 - [FSearch](https://github.com/cboxdoerfer/fsearch)
@@ -20,7 +19,6 @@
 - [Simplenote](https://app.simplenote.com/)
 - [WeChat](https://pc.weixin.qq.com/)
 - [WeCom](https://work.weixin.qq.com/)
-- [Tim](https://office.qq.com/download.html)
 
 
 # Dev
@@ -51,7 +49,6 @@
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
 - [MSI Afterburner](https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip)
 - [qBEE](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
-- [OS](https://next.itellyou.cn/Original/Index)
 - [WePE](http://www.wepe.com.cn/download.html)
 - [Ventoy](https://www.ventoy.net/cn/index.html)
 - [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)
