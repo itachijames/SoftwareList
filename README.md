@@ -18,7 +18,7 @@
 - [ScreenToGif](https://github.com/NickeManarin/ScreenToGif)
 - [HandBrake](https://handbrake.fr/)
 - [MSI Afterburner](https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip)
-- [qBEE](https://github.com/c0re100/qBittorrent-Enhanced-Edition/releases)
+- [qBEE](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
 - [WePE](http://www.wepe.com.cn/download.html)
 - [Ventoy](https://www.ventoy.net/cn/index.html)
 - [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)
@@ -27,7 +27,7 @@
 
 # Dev
 - [Git](https://git-scm.com/downloads)
-- [Sourcetree](https://www.sourcetreeapp.com/)
+- [SourceGit](https://github.com/sourcegit-scm/sourcegit)
 - [MobaXterm](https://mobaxterm.mobatek.net/download.html)
 - [Wireshark](https://www.wireshark.org/download.html)
 - [Redis](https://redis.io/download)
@@ -51,5 +51,5 @@
 
 
 # App
-- [Office 365](https://www.microsoft.com/zh-cn/microsoft-365)
+- [Office 365](https://www.microsoft.com/microsoft-365)
 - [Simplenote](https://app.simplenote.com/)
