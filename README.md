@@ -9,6 +9,7 @@
 - [PotPlayer](https://potplayer.daum.net/)
 - [PowerToys](https://github.com/microsoft/PowerToys) &nbsp;&nbsp;&nbsp;&nbsp; [Microsoft Store](https://apps.microsoft.com/store/detail/XP89DCGQ3K6VLD)
 - [Windows Terminal](https://github.com/microsoft/terminal) &nbsp;&nbsp;&nbsp;&nbsp; [Microsoft Store](https://www.microsoft.com/store/productId/9N0DX20HK701)
+- [Clash Party](https://github.com/mihomo-party-org/clash-party)
 - [Clash Verge](https://github.com/clash-verge-rev/clash-verge-rev)
 - [FSearch](https://github.com/cboxdoerfer/fsearch)
 - [FileZilla](https://filezilla-project.org/)
